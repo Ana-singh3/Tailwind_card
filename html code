@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="bg-slate-900 grid place-content-center h-screen">
+    <!-- <h1 class="text-white text-4xl m-6">Hello</h1> -->
+    <div class="">
+        <div class="p-10 max-w-sm mx-auto bg-pink-200 rounded-lg">
+            <!-- container -->
+            <div>
+                <img src="https://static.vecteezy.com/system/resources/previews/000/257/348/original/beautiful-happy-birthday-card-colorful-watercolor-background-vector.jpg" alt="">
+                <br>
+            </div>
+            <div>
+                <div class="text-center text-zinc-950 font-serif">
+                    Happy Birthday dear Ananya
+                    <p>May God bless you</p>
+                    
+                </div>
+                <button class="bg-blue-200 text-sm p-1 text-centers ml-32 rounded-xl hover:bg-blue-500  hover:text-white">Surpriiise!</button>
+            </div>
+        </div>
+    </div>
+    
+</body>
+</html>
